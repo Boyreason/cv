@@ -5,7 +5,7 @@
     font-family: 'merriweather', serif;
 }
 h1{
-    width:400px ;
+    width: 400px;
     margin: 0 auto 0 auto;
     margin: 50px auto 0 auto;
     font-family: 'sacranento', cursive;
@@ -39,6 +39,9 @@ h1{
     right: 17%;
     top:5%
 }
+.z{
+    width: 20%;
+}
 .a{
     border-radius: 50%;
     width: 15%;
@@ -65,7 +68,7 @@ h3{
     margin: 30px;
 }  
 .p{
-    width: 35%;
+    width: 30%;
     margin: auto;
 }
 p{
@@ -126,6 +129,3 @@ hr{
     padding: 20px 0;
     font-size: 16px;
   }
-.z{
-  width:20%;
-}
